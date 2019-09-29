@@ -8,21 +8,21 @@ permalink: /syllabus/
 
 |Week|Saturday|Monday |    Lecture Topic                  | HW Topic                       |HW Release|Occasion|
 |:--:|:------:|:-----:|:---------------------------------:|:------------------------------:|:--------:|--------|
-| 1  |  6/30  |  7/01 | Algorithmic Warmup                | | | |
-| 2  |  7/6   |  7/08 | Greedy Algorithms                 | | | |
-| 3  |  7/13  |  7/15 | Divide and Conquer                | | | |
-| 4  |  7/20  |  7/22 | Dynamic Programming 1             | | | |
-| 5  |  7/27  |  7/29 | Dynamic Programming 2             | | | Saturday Off |
-| 6  |  8/04  |  8/06 | Basic Data Structures             | | | Sunday & Tuesday Off |
-| 7  |  8/11  |  8/13 | Dynamic Array + Amortized Analysis| | | Wednesday Off |
-| 8  |  8/18  |  8/20 | Priority Queue and Disjoint Set   | | | Basic Sceince Midterms |
-| 9  |  8/25  |  8/27 | Hashing                           | | | Basic Sceince Midterms |
-| 10 |  9/02  |  9/04 | BST 1                             | | | Basic Sceince Midterms |
-| 11 |  9/09  |  9/11 | BST 2                             | | | |
-| 12 |  9/16  |  9/18 | Graph Decomposition 1             | | | |
-| 13 |  9/23  |  9/25 | Graph Decomposition 2             | | | |
-| 14 |  9/30  | 10/02 | Red-black Tree, B-Tree            | | | |
-| 15 | 10/07  | 10/09 | Review                            | | | |
+| 1  |  6/31  |  7/02 | -                                 | | | University Orientation|
+| 2  |  7/7   |  7/09 | Python                            | | | |
+| 3  |  7/14  |  7/16 | Python                            | | | |
+| 4  |  7/21  |  7/23 | Python                            | | | |
+| 5  |  7/28  |  7/30 | Python                            | | | Saturday Off |
+| 6  |  8/05  |  8/07 | Hackathon Week                    | | | Sunday & Tuesday Off |
+| 7  |  8/12  |  8/14 | C Programming                     | | | Wednesday Off |
+| 8  |  8/19  |  8/21 | C Programming                     | | | Basic Sceince Midterms |
+| 9  |  8/26  |  8/28 | C Programming                     | | | Basic Sceince Midterms |
+| 10 |  9/03  |  9/05 | C Programming                     | | | Basic Sceince Midterms |
+| 11 |  9/10  |  9/12 | C Programming                     | | | |
+| 12 |  9/17  |  9/19 | C Programming                     | | | |
+| 13 |  9/24  |  9/26 | C Programming                     | | | |
+| 14 |  9/31  | 10/03 | C Programming                     | | | |
+| 15 | 10/08  | 10/10 | C Programming                     | | | |
 
 
   * A*: Programming Assignments
@@ -55,7 +55,7 @@ Written and programming assignment submission are not accepted after the deadlin
 According to univesity guidlines, students who miss more than 6 sessions are not eligable for a passing grade. University guidelines will be followed. If you cannot attend a session **always** contact the instructor ahead of time with a valid reason. Depending on your reason and record, the instructor may decide to not count your absency for that session.
 
 # TA Classes
-TA Classes will be held on Mondays from 12:30 till 2:30 in room -120.
+TA Classes will be held on Mondays from 1 till 3 in room -119.
 
 # TA Office Hours
 To Be Announced
