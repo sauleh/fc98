@@ -4,15 +4,15 @@ title: Course Materials
 permalink: /course-materials/
 ---
 
-## Programming Resources
-All programming assignments are in C#. Here are some resources to get you up to speed with C#.
-* **[List](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-sharp)** of free C# **ebooks** online.
-* **How to program in C#** - Beginner Course on [YouTube ](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
-* Learn C# **[interactive tutorial ](http://www.learncs.org/)**
-* Online **[playground](https://dotnetfiddle.net/)** for C#.
-* A [list](https://github.com/EbookFoundation/free-programming-books/blob/master/problem-sets-competitive-programming.md) of sites for competitive programming **problem sets**.
-* **Object Oriented Programming using C#** (read online [here](https://bookboon.com/premium/reader/object-oriented-programming-using-c-sharp))
-* **Data Structures and Algorithms** with Object-Oriented **Design Patterns** in C# (web archive [here](https://web.archive.org/web/20161207142802/http://www.brpreiss.com/books/opus6/))
-* Learn how to program: C# from [Epicodus Inc.]([)https://www.learnhowtoprogram.com/c)
+## C Programming Resources
+* **The C Programing Language** BRIAN W.KERNIGHAN & DENNIS M. RITCHIE <a href="../static_files/materials/The_C Programing_Language.pdf">PDF</a> <a href="../static_files/materials/C_Answer_Book.pdf">Answer PDF</a>
+* **Understanding and Using C Pointers** O'Reilly Media <a href="../static_files/materials/Richard Reese-Understanding and Using C Pointers-O'Reilly Media (2013).pdf">PDF</a>
+* **Mastering Algorithms with C** O'Reilly Media <a href="../static_files/materials/Kyle Loudon-Mastering Algorithms with C, 3rd Edition  -O'Reilly Media (1999).pdf">PDF</a>
 
-* The content is written by the beaufiful people at Stack Overflow, **C# Notes for Professionals book**.<a href="https://goalkicker.com/CSharpBook/"> PDF </a>
+
+## Python Programming Resources
+* **Learning Python** O'Reilly Media <a href="../static_files/materials/Mark Lutz-Learning Python-O'Reilly (2009).pdf">PDF</a>
+* **Learning Python** Packt Publishing Limit <a href="../static_files/materials/Learning Python.pdf">PDF</a>  
+* **Dive-Into-Python3**<a href="../static_files/materials/dive-into-python3.pdf">PDF</a>
+* **ThinkPython** Allen Downey-Green Tea Press<a href="../static_files/materials/thinkpython2.pdf">PDF</a>
+
