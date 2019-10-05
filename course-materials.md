@@ -20,3 +20,4 @@ permalink: /course-materials/
 
 ## Other Resources
 * **Number Bases Introduction** <a href="https://www.computerhope.com/jargon/b/binary.htm">English </a> <a href="http://www.khuisf.ac.ir/prof/images/Uploaded_files/Bases%20in%20numeral%20system[6833271].PDF"> Persian</a> 
+* **Git Introduction Online Course** Jadi Mirmirani(Persian) <a href="https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git">Here</a> 
