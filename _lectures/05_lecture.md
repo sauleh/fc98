@@ -1,12 +1,12 @@
 ---
 type: lecture
 date: 2019-10-09T8:00:00+4:30
-title: Session 4
+title: Lab 2
 slides: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FSlides&files=lab2.pdf
 video: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FVideos&files=lab2a.mp4
 video2: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FVideos&files=lab2b.mp4
 #notes: /static_files/presentations/lec.zip
 #codes: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FCode&files=S4.zip
-tldr: "We started off by explaining prerequisites to tomorrow's computer lab. We then explained how hard drives work and handed out hard drives for craft projects. All students must create a blog post on their website on creating their craft (or choose another topic of interest if you are not making a craft). We then talked about what a compiler does and looked at some disassembled code in visual studio. We explained how a variable is just a memory address. We stepped through code to see how the memory is updated as we change variable values. Finally, we wrote some simple python code to print out a space ship and start making functions to reduce repititions."
+tldr: "We talked about how to edit your github.io website. Then we had a quick introduction to networking and the internet, starting from the physical layer all the way up to the application layer. In the second half of the class we spent time learning about variables and functions in Python. We ended the class with a homework to build a scalable ascii-art rocket."
 #thumbnail: /static_files/presentations/lec.jpg
 ---
