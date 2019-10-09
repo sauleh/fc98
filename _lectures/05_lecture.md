@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2019-10-08T8:00:00+4:30
+date: 2019-10-09T8:00:00+4:30
 title: Session 4
 slides: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FSlides&files=lab2.pdf
 video: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FVideos&files=lab2a.mp4
