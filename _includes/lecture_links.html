@@ -31,6 +31,22 @@
       {{ include.lecture.video2 | prepend: site.baseurl }} 
     {% endif %}">video2</a>]
     {% endif %}
+    {% if include.lecture.video3 %}
+    [<a title="Download video (mp4)" href="
+    {% if include.lecture.video3 contains '://' %}
+      {{ include.lecture.video3 }} 
+    {% else %}
+      {{ include.lecture.video3 | prepend: site.baseurl }} 
+    {% endif %}">video3</a>]
+    {% endif %}
+    {% if include.lecture.video4 %}
+    [<a title="Download video (mp4)" href="
+    {% if include.lecture.video4 contains '://' %}
+      {{ include.lecture.video4 }} 
+    {% else %}
+      {{ include.lecture.video4 | prepend: site.baseurl }} 
+    {% endif %}">video4</a>]
+    {% endif %}
     {% if include.lecture.codes %}
     [<a title="Download codes (zip)" href="
     {% if include.lecture.codes contains '://' %}
