@@ -491,42 +491,46 @@ a.tosu {
     font-family: inherit;
 }
 
-article table {
+article table, li table {
     padding: 0;
 }
 
-article table tr {
+article table tr, li table tr {
     border-top: 1px solid #cccccc;
-    background-color: white;
     margin: 0;
     padding: 0;
 }
 
-article table tr:nth-child(2n) {
+article table tr:nth-child(2n), li table tr:nth-child(2n){
     background-color: #f8f8f8;
 }
 
-article table tr th {
+article table tr th, li table {
     font-weight: bold;
-    border: 1px solid #cccccc;
     text-align: left;
     margin: 0;
     padding: 6px 13px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-article table tr td {
+article table tr td, li table tr td {
     border: 1px solid #cccccc;
     text-align: left;
     margin: 0;
     padding: 6px 13px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 article table tr th :first-child,
-article table tr td :first-child {
+article table tr td :first-child,
+li table tr th :first-child,
+li table tr td :first-child{
     margin-top: 0;
 }
 
 article table tr th :last-child,
-article table tr td :last-child {
-    margin-bottom: 0;
+article table tr td :last-child,
+li table tr th :last-child,
+li table tr td :last-child {
+        margin-bottom: 0;
 }
