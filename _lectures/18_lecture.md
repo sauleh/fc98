@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2019-11-03T8:00:00+4:30
+date: 2019-11-05T8:00:00+4:30
 title: Lecture 12 - Turtle Graphics - Simulating throwing an object on a slope.
 slides: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FSlides&files=S12.pdf
 video: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FVideos&files=S12.mp4
