@@ -18,7 +18,7 @@ permalink: /course-materials/
 * **Python Online Course** Pluralsight (English) <a href="https://p30download.com/fa/entry/49434/">Here</a>
 * **Python Online Course** Jadi Mirmirani(Persian) <a href="https://gotoclass.ir/courses/آموزش-پایتون/">Here</a>
 * Python Challenges from [HackerRank](https://www.hackerrank.com/domains/python)
-* Vance Morrison's Python Intro [Course Notes](https://onedrive.live.com/view.aspx?resid=D068505F1C71AB61!3159&app=OneNote&authkey=!AKxcqGnaYlWNqts)
+* Vance Morrison's Python Intro [Course Notes](https://onedrive.live.com/view.aspx?resid=D068505F1C71AB61!3159&app=OneNote&authkey=!AKxcqGnaYlWNqts) [Download](../static_files/materials/VanceMorrisonNotes.zip)
 * Interactive Python [Book](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 * Python [Turtle Graphics](https://runestone.academy/runestone/books/published/thinkcspy/PythonTurtle/toctree.html)
 * Recursion Turtle [Demo](https://runestone.academy/runestone/books/published/thinkcspy/IntroRecursion/SierpinskiTriangle.html) 
