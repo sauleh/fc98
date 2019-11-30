@@ -9,20 +9,20 @@ permalink: /syllabus/
 |Week|Saturday|Monday |    Lecture Topic                  | HW Topic                       |HW Release|Occasion|
 |:--:|:------:|:-----:|:---------------------------------:|:------------------------------:|:--------:|--------|
 | 1  |  6/31  |  7/02 | -                                 | | | University Orientation|
-| 2  |  7/7   |  7/09 | Python                            | | | |
-| 3  |  7/14  |  7/16 | Python                            | | | |
-| 4  |  7/21  |  7/23 | Python                            | | | |
-| 5  |  7/28  |  7/30 | Python                            | | | Saturday Off |
+| 2  |  7/7   |  7/09 | Python:Intro                      | | | |
+| 3  |  7/14  |  7/16 | Python:Math/Input/Output/variables| | | |
+| 4  |  7/21  |  7/23 | Python:Loops/Condition/Stack/Scope| | | |
+| 5  |  7/28  |  7/30 | Python:Debug/Test/Hackathon Intro | | | Saturday Off |
 | 6  |  8/05  |  8/07 | Hackathon Week                    | | | Sunday & Tuesday Off |
-| 7  |  8/12  |  8/14 | C Programming                     | | | Wednesday Off |
-| 8  |  8/19  |  8/21 | C Programming                     | | | Basic Sceince Midterms |
-| 9  |  8/26  |  8/28 | C Programming                     | | | Basic Sceince Midterms |
-| 10 |  9/03  |  9/05 | C Programming                     | | | Basic Sceince Midterms |
-| 11 |  9/10  |  9/12 | C Programming                     | | | |
-| 12 |  9/17  |  9/19 | C Programming                     | | | |
-| 13 |  9/24  |  9/26 | C Programming                     | | | |
-| 14 |  9/31  | 10/03 | C Programming                     | | | |
-| 15 | 10/08  | 10/10 | C Programming                     | | | |
+| 7  |  8/12  |  8/14 | Python:Hackathon Presentation     | | | Wednesday Off |
+| 8  |  8/19  |  8/21 | Python:Turtle Graphics Physics    | | | Basic Sceince Midterms |
+| 9  |  8/26  |  8/28 | Python:VPython, More Physcis      | | | Basic Sceince Midterms |
+| 10 |  9/03  |  9/05 | Python: Matplotlib, Math Problems | | | Basic Sceince Midterms |
+| 11 |  9/10  |  9/12 | C:Input/Output/Syntax/VSCode/Debug| Redoing Python Problems in C | | |
+| 12 |  9/17  |  9/19 | C:Unit Testing                    | | | |
+| 13 |  9/24  |  9/26 | C:Functions, Pointers, References | | | |
+| 14 |  9/31  | 10/03 | C:Using STL                       | | | |
+| 15 | 10/08  | 10/10 | C:Practice and Exam               | | | |
 
 
   * A*: Programming Assignments
