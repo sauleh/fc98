@@ -8,7 +8,7 @@ permalink: /course-materials/
 * **The C Programing Language** BRIAN W.KERNIGHAN & DENNIS M. RITCHIE <a href="../static_files/materials/The_C Programing_Language.pdf">PDF  </a> <a href="../static_files/materials/C_Answer_Book.pdf">AnswersPDF</a>
 * **Understanding and Using C Pointers** O'Reilly Media <a href="../static_files/materials/Richard Reese-Understanding and Using C Pointers-O'Reilly Media (2013).pdf">PDF</a>
 * **Mastering Algorithms with C** O'Reilly Media <a href="../static_files/materials/Kyle Loudon-Mastering Algorithms with C, 3rd Edition  -O'Reilly Media (1999).pdf">PDF</a>
-
+* [Viewing memory in vscode](https://sourceware.org/gdb/current/onlinedocs/gdb/Memory.html). Use -exec with before the gdb commands.
 
 ## Python Programming Resources
 * **Learning Python** O'Reilly Media <a href="../static_files/materials/Mark Lutz-Learning Python-O'Reilly (2009).pdf">PDF</a>
