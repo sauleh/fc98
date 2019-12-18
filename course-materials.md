@@ -23,6 +23,8 @@ permalink: /course-materials/
 * Python [Turtle Graphics](https://runestone.academy/runestone/books/published/thinkcspy/PythonTurtle/toctree.html)
 * Recursion Turtle [Demo](https://runestone.academy/runestone/books/published/thinkcspy/IntroRecursion/SierpinskiTriangle.html) 
 
+## Azure DevOps
+* **Effective_DevOps** <a href="../static_files/materials/Effective_DevOps.pdf">PDF</a>
 
 ## Other Resources
 * **Number Bases Introduction** <a href="https://www.computerhope.com/jargon/b/binary.htm">English </a> <a href="http://www.khuisf.ac.ir/prof/images/Uploaded_files/Bases%20in%20numeral%20system[6833271].PDF"> Persian</a> 
