@@ -27,6 +27,15 @@ permalink: /course-materials/
 ## Azure DevOps
 * **Effective_DevOps** <a href="../static_files/materials/Effective_DevOps.pdf">PDF</a>
 
+## Git
+* **Oriely Git Book** [pdf](../static_files/OriellyGIT.pdf)
+* **Git Community Book** [pdf](../static_files/GitCommunityBook.pdf)
+* **Pro Git Book** [link](https://git-scm.com/book/en/v2)
+* **Git Tower** [link](https://www.git-tower.com/learn/)
+* **Ry’s Git Tutorial** [epub](../static_files/RyGitTutorial.epub)
+* **Visualizing Git** [link](http://git-school.github.io/visualizing-git/)
+* **Git Introduction Online Course** Jadi Mirmirani(Persian) <a href="https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git">Here</a> 
+
+
 ## Other Resources
 * **Number Bases Introduction** <a href="https://www.computerhope.com/jargon/b/binary.htm">English </a> <a href="http://www.khuisf.ac.ir/prof/images/Uploaded_files/Bases%20in%20numeral%20system[6833271].PDF"> Persian</a> 
-* **Git Introduction Online Course** Jadi Mirmirani(Persian) <a href="https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git">Here</a> 
