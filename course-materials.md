@@ -10,6 +10,7 @@ permalink: /course-materials/
 * **Mastering Algorithms with C** O'Reilly Media <a href="../static_files/materials/Kyle Loudon-Mastering Algorithms with C, 3rd Edition  -O'Reilly Media (1999).pdf">PDF</a>
 * [Viewing memory in vscode](https://sourceware.org/gdb/current/onlinedocs/gdb/Memory.html). Use -exec with before the gdb commands.
 * [C FAQ](http://c-faq.com/index.html)
+* [C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 
 ## Python Programming Resources
 * **Learning Python** O'Reilly Media <a href="../static_files/materials/Mark Lutz-Learning Python-O'Reilly (2009).pdf">PDF</a>
