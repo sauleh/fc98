@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2020-01-01T8:00:00+4:30
-title: Lab14 - All other languages
+title: Lab14 - All other programming languages
 #slides: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FSlides&files=S28.pdf
 video: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FVideos&files=lab14a.mp4
 video2: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FVideos&files=lab14b.mp4
