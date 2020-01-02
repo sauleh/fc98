@@ -4,7 +4,7 @@ date: 2020-01-02T07:00:00+3:30
 # Computer Lab Exam Topics
 * Windows command prompt:
     * file management: copy, move, ren, mkdir, rmdir, dir, robocopy
-    * using pipes and redirecting output: |, >, >>
+    * using pipes and redirecting output: \|, >, >>
     * using findstr and more
     * for loops over file or file content
     * BAT files
