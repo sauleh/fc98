@@ -25,5 +25,7 @@ date: 2020-01-02T07:00:00+3:30
 * Using Azure DevOps: Pull Requests, Pipelines
 * Compiling, Linking, Building C/C++ code.
 * Using search/google/stackoverflow/... to troubleshoot/fix problems.
+* Updating github website.
+* Following instructions to make changes to your windows computer.
 
 * During the exam you can use all/any resource you want. You CANNOT communicate in any way with ANYONE except the instructor.
