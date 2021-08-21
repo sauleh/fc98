@@ -4,6 +4,9 @@ title: Course Materials
 permalink: /course-materials/
 ---
 
+## General Resources
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
 ## C Programming Resources
 * **The C Programing Language** BRIAN W.KERNIGHAN & DENNIS M. RITCHIE <a href="../static_files/materials/The_C Programing_Language.pdf">PDF  </a> <a href="../static_files/materials/C_Answer_Book.pdf">AnswersPDF</a>
 * **Understanding and Using C Pointers** O'Reilly Media <a href="../static_files/materials/Richard Reese-Understanding and Using C Pointers-O'Reilly Media (2013).pdf">PDF</a>
@@ -24,6 +27,7 @@ permalink: /course-materials/
 * Interactive Python [Book](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 * Python [Turtle Graphics](https://runestone.academy/runestone/books/published/thinkcspy/PythonTurtle/toctree.html)
 * Recursion Turtle [Demo](https://runestone.academy/runestone/books/published/thinkcspy/IntroRecursion/SierpinskiTriangle.html) 
+* MIT Programming Course [link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 ## Azure DevOps
 * **Effective_DevOps** <a href="../static_files/materials/Effective_DevOps.pdf">PDF</a>
