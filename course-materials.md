@@ -14,6 +14,7 @@ permalink: /course-materials/
 * [Viewing memory in vscode](https://sourceware.org/gdb/current/onlinedocs/gdb/Memory.html). Use -exec with before the gdb commands.
 * [C FAQ](http://c-faq.com/index.html)
 * [C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+* [Stanford CS 106 text book - Programming Abstractions in C++](http://web.stanford.edu/dept/cs_edu/BXReader-Beta-2012.pdf)
 
 ## Python Programming Resources
 * **Learning Python** O'Reilly Media <a href="../static_files/materials/Mark Lutz-Learning Python-O'Reilly (2009).pdf">PDF</a>
